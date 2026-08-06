@@ -109,3 +109,16 @@ MS in Information Science
 Aspiring Data Analyst
 
 GitHub Portfolio Project
+## 📊 Power BI Dashboard
+
+The dashboard provides interactive insights into laptop pricing trends.
+
+### Dashboard Preview
+
+> Dashboard screenshot will be added here.
+
+### Key Insights
+- Razer laptops have the highest average price.
+- Intel processors dominate the dataset.
+- Higher RAM generally corresponds to higher laptop prices.
+- Users can filter data by Brand.
